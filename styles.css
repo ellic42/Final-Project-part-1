@@ -1,1 +1,12 @@
-
+body, header, nav, folder {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+  font-family: Cambria, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #FFFFFF;
+  background-color: #303838;
+}
