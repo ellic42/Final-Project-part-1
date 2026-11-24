@@ -4,14 +4,16 @@ body, header, nav, folder {
     border: 0;
 }
 body {
-  font-family: Cambria, "Times New Roman", serif;
+  font-family: Cambria, "Times New Roman", Serif;
   font-size: 16px;
   line-height: 1.6;
   color: #303838;
   background-color: #ffffff;
 }
 header {
-    font-size: 32px;
+    font-family: Cambria, "Times New Roman", Serif;
+    line-height: 28;
+    font-size: 22px;
     color: #578A57;
 }
     
