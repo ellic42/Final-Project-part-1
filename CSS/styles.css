@@ -1,4 +1,4 @@
-body, header, nav, folder {
+rbody, header, nav, folder {
     margin: 0;
     padding: 0;
     border: 0;
@@ -10,7 +10,7 @@ body {
   color: #303838;
   background-color: #ffffff;
 }
-h1 {
+header {
     font-size: 32px;
     color: #578A57;
 }
