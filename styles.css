@@ -7,6 +7,11 @@ body {
   font-family: Cambria, "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.6;
-  color: #FFFFFF;
-  background-color: #303838;
+  color: #303838;
+  background-color: #ffffff;
 }
+h1 {
+    font-size: 32px;
+    color: #578A57;
+}
+    
