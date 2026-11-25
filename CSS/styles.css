@@ -4,6 +4,9 @@ body, header, nav, folder {
     border: 0;
 }
 body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto 1fr auto;
   font-family: Cambria, "Times New Roman", Serif;
   font-size: 16px;
   line-height: 1.6;
@@ -30,6 +33,7 @@ article {
     width: 25%;
 }
 footer {
+    grid-row: 4;
     font-size: 12px;
     font-weight: bold;
 }
