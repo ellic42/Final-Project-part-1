@@ -20,4 +20,9 @@ header {
     font-size: 32px;
     color: #578A57;
 }
+article {
+    float: right;
+    margin: 5em 3em 0 0;
+    width: 25%;
+}
     
