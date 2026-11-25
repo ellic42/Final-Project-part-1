@@ -12,6 +12,10 @@ body {
   margin-top: 5em;
   margin-left: 3em;
 }
+div {
+    width: 65px;
+    length: 60px;
+}
 header {
     font-family: Cambria, "Times New Roman", Serif;
     font-weight: bold;
